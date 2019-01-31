@@ -11,4 +11,7 @@ public class Dog {
 
    void sleeping() {
    }
+
+   void playing() {
+   }
 }
